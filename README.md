@@ -52,5 +52,10 @@ Voltage Ripple (Delta V) = 20mV
 Current Ripple (Delta I) = 0.1A
 
 ## Simulation
+![WhatsApp Image 2025-09-26 at 23 26 34_f7d9e03c](https://github.com/user-attachments/assets/5eb4e99d-3f4c-4b51-950a-a8905b580c7f)
+
 ## Output
+![WhatsApp Image 2025-09-26 at 23 26 18_09686640](https://github.com/user-attachments/assets/bb306d59-2ecd-48c2-bd38-14931cd4f5f2)
+
 ## Result
+Simulation-of-step-down-chopper is done.
